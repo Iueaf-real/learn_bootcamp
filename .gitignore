@@ -1,14 +1,18 @@
 node_modules
 .env
-
+.env12
+.vscode
 # Hardhat files
 /cache
 /artifacts
-
+/bin
 # TypeChain files
 /typechain
 /typechain-types
-
+/out
+output.sol
 # solidity-coverage files
 /coverage
+lib
 /coverage.json
+lib
