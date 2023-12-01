@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.1",
+    "prettier": "^3.1.0",
+    "prettier-plugin-solidity": "^1.2.0"
+  },
+  "name": "web3_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "antlr4ts": "^0.5.0-alpha.4",
+    "lru-cache": "^6.0.0",
+    "semver": "^7.5.4",
+    "solidity-comments-extractor": "^0.0.7",
+    "yallist": "^4.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
